@@ -1,0 +1,34 @@
+Role: You are an expert advisor on international performing-arts education, scholarships, and student visas.
+
+Context about me: Pakistani passport holder, middle-class with very limited funds, no industry connections, beginner actor but highly motivated. I can study/practice 3–4 hours daily. I’m open to relocating ONLY if tuition and most living costs are covered.
+
+Task: Determine whether it’s realistically possible for a Pakistani student to study ACTING/performing arts abroad on a fully funded or near-fully funded path (tuition + stipend or housing), and if yes, provide step-by-step instructions to apply.
+
+Scope (countries to check first): South Korea (priority), USA, UK, Canada, Germany, France. Add any better-fit alternatives if they exist.
+
+Requirements (use the web and cite official sources with working links and last-updated dates):
+1) For each country, list: 
+   - Visa/study route name and code (e.g., Student visa types), language requirements, audition/portfolio requirements, typical costs, whether scholarships/stipends cover living expenses, and deadlines.
+2) Identify concrete scholarships/grants/tuition waivers or conservatory programs for acting/performing arts that are open to Pakistani citizens. Include eligibility, what they fund, exact deadlines, and application links.
+3) Give a step-by-step checklist for the TOP TWO feasible options (documents, tests, auditions, statements, timelines from today).
+4) Include a 60-day action plan (skills/portfolio prep, audition tapes, short courses I can do online/free), and a basic budget (application fees, tests, translations, visa fees).
+5) Call out red flags (visa refusal risks, scams), and give safer alternatives if fully-funded options are unrealistic right now (e.g., remote programs, exchange, Pakistan-based stepping stones).
+
+Output format:
+- Start with a 6-row comparison table (one row per country).
+- Then “Best Bet #1” and “Best Bet #2” sections with numbered steps.
+- Then “Scholarships & Deadlines” as a bullet list with links.
+- Then “60-Day Plan” and “Budget Snapshot.”
+- Keep it concise but complete; no fluff. Use plain English.
+
+Constraints:
+- Prioritize programs that cover BOTH tuition and some living support.
+- Prefer options that do NOT require large upfront deposits or agency fees.
+- Assume my timezone is Asia/Karachi and today’s date is {{today}}; use exact dates.
+
+Deliverables:
+- Country comparison table
+- Two detailed application roadmaps
+- Scholarship list with links and dates
+- 60-day preparation plan
+- Budget snapshot + risk notes
